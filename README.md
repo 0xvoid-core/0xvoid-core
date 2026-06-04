@@ -1,16 +1,17 @@
-## Hi there 👋
+# Avinash Mohite
 
-<!--
-**0xvoid-core/0xvoid-core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Product Engineer | Bridging Figma UI & React.js Architecture**
 
-Here are some ideas to get you started:
+I build clean, production-ready interfaces. The focus is on absolute minimalism, component-driven architecture, and zero-fluff execution. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Current Trajectory
+Actively mastering the stack in the **100xDevs** bootcamp. 
+Currently architecting the foundation. Codebases and repositories will be deployed here as production-grade builds are completed.
+
+### 🛠 Technical Stack
+- **Engineering:** React.js, Tailwind CSS, JavaScript
+- **Architecture:** Component Design, Scalable UI Systems
+- **Design:** Figma
+
+### 📡 Routing Hub
+- [0xVoid Ecosystem]([insert-your-linktree-url-here])
