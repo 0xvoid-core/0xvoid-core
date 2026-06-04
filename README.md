@@ -14,4 +14,4 @@ Currently architecting the foundation. Codebases and repositories will be deploy
 - **Design:** Figma
 
 ### 📡 Routing Hub
-- [0xVoid Ecosystem]([insert-your-linktree-url-here])
+- [0xVoid Ecosystem](https://linktr.ee/0xvoidcore)
